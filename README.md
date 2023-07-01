@@ -1,6 +1,6 @@
 # RSLCD Viewer
 A program I wrote for easily viewing AIDA64 RemoteSensor Panels independently from a web browser.
-In theory, his is more streamlined and built for a specific purpose.
+In theory, this is more streamlined and built for a specific purpose.
 
 # Libraries Used (Install via 'Manage NuGet Packages')
 https://github.com/Taiizor/ReaLTaiizor
